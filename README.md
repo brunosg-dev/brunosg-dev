@@ -1,8 +1,6 @@
 # About me
 
 
-**brunosg-dev/brunosg-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🔭 I’m currently working at The Wolseley Restaurant in Central London as a waiter.
 🌱 I’m currently learning Full-Stack Web Development (HTML, CSS, JavaScript and beyond).
 👯 I’m looking to collaborate on beginner-friendly projects that help me grow my coding skills.
